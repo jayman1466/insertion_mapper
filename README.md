@@ -68,4 +68,9 @@ All output files are prefixed with the value of `--output`.
 - pandas
 - matplotlib
 - numpy
+- logomaker
+- python-Levenshtein
+- scikit-learn
+- umap-learn *(optional — only required if using UMAP dimensionality reduction)*
+- MAFFT *(external tool — must be installed and available on `$PATH`)*
 - `plotter_v3.py` (must be in the same directory)
