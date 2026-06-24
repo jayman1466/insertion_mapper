@@ -1,0 +1,17 @@
+# Output files
+*.svg
+*.csv
+*.log
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output folders
+insertion_mapper_output_*/
+"Final Mapping Analysis "*
+"CE01 tabulation"/
+"CE07 tabulation"/
+genomewide_ex_inv/
